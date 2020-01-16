@@ -1,0 +1,21 @@
+{
+    "name": "OohLaLa.v1",
+    "short_name": "oohlala",
+    "description": "Data Privacy App",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#FFF",
+    "background_color": "#FFF",
+    "icons": [
+      {
+        "src": "/assets/images/manifest/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/assets/images/manifest/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
