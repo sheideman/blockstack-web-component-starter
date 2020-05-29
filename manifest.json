@@ -1,7 +1,7 @@
 {
-    "name": "OohLaLa.v1",
-    "short_name": "oohlala",
-    "description": "Data Privacy App",
+    "name": "Blockstack Web Component Starter",
+    "short_name": "blockstack_wc",
+    "description": "Starter project for using blockstack.js with web components",
     "start_url": "/",
     "display": "standalone",
     "theme_color": "#FFF",
