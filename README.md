@@ -10,4 +10,6 @@ If you want to download it using git, copy paste the link that is presented to y
 git clone https://github.com/sheideman/blockstack-web-component-starter.git
 cd blockstack-web-component-starter
 npm install
+npm run build
+npm start
 ```
